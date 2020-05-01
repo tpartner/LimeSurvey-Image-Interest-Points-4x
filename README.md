@@ -13,10 +13,10 @@ Compatible with LimeSurvey version 4.x.
 2) Create a multiple-short-text question, click Save.
 
 3) Set the question setting "Question theme" to "interestPoints", click Save.  
-![Image Select interestPoints](/interestPoints/survey/questions/answer/multipleshorttext/assets/images/interest_points_2.png)
+![Image Select interestPoints](/interestPoints/survey/questions/answer/multipleshorttext/assets/images/interest_points_6.png)
 
 4) In the question settings "Custom theme options", enter an absolute path to the image, click Save.  
-![Image Enter path to image](/interestPoints/survey/questions/answer/multipleshorttext/assets/images/interest_points_3.png)
+![Image Enter path to image](/interestPoints/survey/questions/answer/multipleshorttext/assets/images/interest_points_7.png)
 
 5) Create 3 times as many subquestions as the number of markers allowed
     - Each marker will populate three sub-questions
